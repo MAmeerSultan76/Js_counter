@@ -1,0 +1,19 @@
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.title{
+    font-size: 65px;
+}
+.counter{
+    font-size: 85px;
+
+}
+.btn{
+    background-color: aqua;
+    color: white;
+    padding: 10px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 35px;
+}
